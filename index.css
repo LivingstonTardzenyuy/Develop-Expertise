@@ -1,0 +1,81 @@
+body
+{
+    /* background-size: cover; */
+    /* margin-top: 20%; */
+    background-image: url(pic1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+#nav ul
+{
+    list-style-type: none;
+    display: inline-flex;
+    color: rgb(148, 138, 138);
+    background-color: purple;
+    margin-top: 0%;
+    padding: 15px 15px;
+
+
+}
+ #nav ul li
+ {
+    width: 10rem;
+    text-transform: uppercase;
+ }
+
+ #develop
+ {
+    margin-left: 25%; 
+    color:rgb(224, 205, 205);
+    
+}
+ #content
+ {
+     margin-top: 2%;
+     height: 80%;
+     background-color: white;
+     width: 100%;
+ }
+ 
+ #one
+ {
+     display: inline-flex;
+     /* width:20px; */
+     padding: 10px;
+     width: 100%;
+     
+
+ }
+fieldset
+{
+    width: 22rem;
+    margin-left: 23px;
+}
+legend
+{
+    text-align: left;
+    color:rgb(231, 80, 231);
+}
+
+h1
+{
+    text-align: center;
+}
+
+#middle
+{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+button
+{
+    margin-left: 30%;
+    height: 40px;
+    width: 120px;
+    border-radius: 13px;
+    color: magenta;
+    background-color: blue;
+
+}
